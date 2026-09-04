@@ -10,7 +10,7 @@ No account, no server, nothing leaves your phone.
 
 ## Support
 
-Something wrong, or a question? Write to **TVUJ@EMAIL** and I will answer.
+Something wrong, or a question? Write to matejblinka91@gmail.com and I will answer.
 
 ## The data
 
