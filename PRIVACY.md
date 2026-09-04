@@ -1,8 +1,8 @@
-# Starcatch — Privacy Policy
+# Skycatching — Privacy Policy
 
 _Last updated: 4 September 2026_
 
-**Starcatch collects nothing.** There is no account, no server, no analytics
+**Skycatching collects nothing.** There is no account, no server, no analytics
 and no advertising. Nothing you do in the app is transmitted anywhere, because
 there is nowhere for it to go: the app makes no network connections at all.
 

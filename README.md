@@ -1,4 +1,4 @@
-# Starcatch
+# Skycatching
 
 The real night sky, computed from a star catalogue, the planetary
 ephemeris and where you are standing. Point the phone anywhere — the sky
