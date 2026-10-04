@@ -4,7 +4,7 @@ The real night sky, computed from a star catalogue, the planetary
 ephemeris and where you are standing. Point the phone anywhere — the sky
 is there, correct, even through a ceiling.
 
-No account, no server, nothing leaves your phone.
+No account, no ads, and your location never leaves your phone.
 
 - [Privacy policy](PRIVACY.md)
 
